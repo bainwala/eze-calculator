@@ -1,7 +1,12 @@
 import "./App.css";
+import HomeScreen from "./HomeScreen";
 
 function App() {
-  return <div>This is going to be a calculator</div>;
+  return (
+    <div className="app">
+      <HomeScreen />
+    </div>
+  );
 }
 
 export default App;
