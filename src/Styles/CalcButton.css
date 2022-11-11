@@ -5,7 +5,9 @@
   height: 75px;
   justify-content: center;
   padding: 10px;
-  margin: 25px;
+  margin: 15px;
   border-radius: 50%;
   display: flex;
+  border: 2px solid;
+  border-color: brown;
 }

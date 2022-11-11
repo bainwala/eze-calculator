@@ -1,8 +1,15 @@
 .calculator {
   display: flex;
+  justify-content: center;
   width: 30%;
   height: 500px;
   border: 2px solid;
   border-color: brown;
   background-color: rgb(243, 243, 241);
+}
+
+.ButtonsGrid {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
 }
