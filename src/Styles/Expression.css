@@ -1,5 +1,15 @@
 .expression {
+  position: fixed;
   display: flex;
-  margin-right: 50px;
+  flex-direction: column;
+  align-items: center;
+  margin-inline: 50px;
+  justify-content: space-around;
   font-family: "Courier New", Courier, monospace;
+}
+
+.answer {
+  position: relative;
+  display: flex;
+  flex-direction: row;
 }
