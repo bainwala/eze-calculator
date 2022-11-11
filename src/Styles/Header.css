@@ -1,0 +1,22 @@
+.header {
+  padding: 10px;
+  background-color: bisque;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  box-shadow: 0 4px 3px -3px gray;
+}
+
+.header_contents {
+  display: flex;
+  justify-content: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+.calc_logo {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 15px;
+}
