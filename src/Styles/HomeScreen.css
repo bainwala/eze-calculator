@@ -1,0 +1,12 @@
+.homescreen {
+  display: flex;
+  flex-direction: column;
+}
+
+.calc-area {
+  display: flex;
+  flex-direction: row;
+  margin-top: 50px;
+  margin-left: 50px;
+  justify-content: space-around;
+}

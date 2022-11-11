@@ -1,0 +1,8 @@
+.calculator {
+  display: flex;
+  width: 30%;
+  height: 500px;
+  border: 2px solid;
+  border-color: brown;
+  background-color: rgb(243, 243, 241);
+}
